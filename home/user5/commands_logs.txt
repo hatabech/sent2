@@ -1,0 +1,6 @@
+cd
+git add
+git push
+vim
+mkdir
+touch
